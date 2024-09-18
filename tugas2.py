@@ -21,7 +21,7 @@ def apply_convolution(image, kernel):
 
 # Main function
 if __name__ == "__main__":
-    image_path = r'D:\SEMESTER 5\PENGOLAHANCITRADIGITAL\Tugasindividu\Tugas1\download.jpeg'
+    image_path = r'D:\SEMESTER 5\PENGOLAHANCITRADIGITAL\Tugasindividu\Tugas2\download.jpeg'
     # Ganti dengan path file gambar Anda
     
     # Membaca dan menampilkan gambar
